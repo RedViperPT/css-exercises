@@ -1,0 +1,19 @@
+.oddpar {
+    background-color: lightcoral;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.font_size_24 {
+    font-size: 24px;
+}
+
+#div1 {
+    color: blue;
+    font-size: 36px;
+}
+
+#div2 {
+    font-weight: bold;
+    background-color: lightgreen;
+    font-size: 24px;
+}
